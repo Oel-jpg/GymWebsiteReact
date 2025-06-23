@@ -1,1 +1,11 @@
 @import "tailwindcss";
+
+.navbar-gradient {
+    background: linear-gradient(
+        to bottom,
+        #0B192C,        /* Dark blue (top) */
+        #14243D 30%,    /* Slightly lighter */
+        #1A3254 60%,    /* Mid-tone blue */
+        #1E3E62 100%     /* Light blue (bottom) */
+    );
+}
