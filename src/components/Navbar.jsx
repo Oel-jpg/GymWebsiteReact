@@ -1,8 +1,7 @@
 import placeholder from '../assets/placeholder.png'
-import useState from 'react'
 
 
-const Navbar = () => {
+const Navbar = () => { 
   return (
     <>
       <nav className="navbar-gradient flex items-center justify-center md:justify-between px-2 py-4 md:px-8 md:py-6 gap-4 md:gap-0">
